@@ -4,8 +4,8 @@ How I built a Caster Using Onshape
 
 ---
 ## Table of Contents
-* [Base](#Base)
-* [Mount](#Mount)
+* [Base](#Step 1: Building the Base)
+* [Mount](#Step 2: Building the Mount)
 * [Fork](#Fork)
 * [Tire](#Tire)
 * [Wheel](#Wheel)
@@ -43,7 +43,7 @@ Remember:
 
 ---
 
-## Mount
+## Step 2: Building the Mount
 
 ### Description
 
