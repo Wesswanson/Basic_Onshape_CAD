@@ -11,7 +11,7 @@ How I built a Caster Using Onshape
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 
-## Step 1: Building the Base
+## step 1: Building the Base
 
 ### Description:
 
