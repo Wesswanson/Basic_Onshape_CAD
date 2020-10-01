@@ -43,6 +43,7 @@ Remember:
 
 ---
 
+
 ## Mount
 
 ### Description
@@ -51,7 +52,7 @@ The second step in building a caster is building a mount. I created a sketch on 
 
 ### Evidence
 
-[click here to view the document in onshape in more detail(https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/87a88c2dc5a094b2cc6ccc63)
+[click here to view the document in onshape in more detail](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/87a88c2dc5a094b2cc6ccc63)
 
 ### Image
 
@@ -71,6 +72,7 @@ On this asignment I learnded how to use the trim feture (looks like scisors) and
 
 Designing stuff on Onshape is really fun!!!
 
+---
 
 ## Fork
 
