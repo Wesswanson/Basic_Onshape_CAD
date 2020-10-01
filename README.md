@@ -43,18 +43,33 @@ Remember:
 
 ---
 
-
 ## Mount
 
 ### Description
 
+The second step in building a caster is building a mount. I created a sketch on the face of the bace I built in the first asignment. I clicked the "use fetures" tool and selected the outside of the base and the four small circles on the left side and the large circle. Than I used the trim feture to delete the right side of the rectangle. I added a line to turn the rectangle into a square with the dimentions 120mm x 120mm. I extruded my new sketch as a new part by 8mm, and renamed it "mount". 
+
 ### Evidence
+
+[click here to view the document in onshape in more detail(https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/87a88c2dc5a094b2cc6ccc63)
 
 ### Image
 
+![Image of base and mount](https://davidswanson.org/wp-content/uploads/2020/09/casterforwes.png)
+
 ### Reflection
 
----
+It was very easy and fast to coppy the design I had built in the base and use it for the mount. you can build it seperatly in it's own part studio or document, it just takes more time to build it from scratch.
+
+[Watch this video for three ways to do this asignment](https://www.youtube.com/watch?v=BWDk4BZFXDQ&feature=emb_logo)
+
+Remember:
+* if you build the mount in the same part studio as the base, make it it's own part when you extrude it.
+* if you build the mount in it's own part studio, use all the keybord shortcuts above.
+
+On this asignment I learnded how to use the trim feture (looks like scisors) and the copy feture. 
+
+Designing stuff on Onshape is really fun!!!
 
 
 ## Fork
@@ -108,13 +123,3 @@ Remember:
 
 ---
 
-
-## Step 1: Building the base
-
-
-
-## Step 2: building the mount
-![Image of base and mount](https://davidswanson.org/wp-content/uploads/2020/09/casterforwes.png)
-I created a sketch on the face of the bace. I clicked "use fetures" and copied the outside of the base and the four small circles on the left, and the large circle. Than I used the trim feture to delete the side of the rectangle with the circles i didn't copy. I added a line to turn the rectangle into a square with dimentions 120mm x 120mm. I extruded my new sketch as a new part by 8mm, and renamed it "mount". 
-
-[Click here to view the document on Onshape in more detail.](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/87a88c2dc5a094b2cc6ccc63)
