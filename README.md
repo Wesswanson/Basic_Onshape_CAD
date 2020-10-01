@@ -27,8 +27,6 @@ This is what the base looks like in onshape.
 
 ### Reflection
 
-[Watch this video for very detailed instructions.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4) 
-
 When I was building this asignment is was very helpful to know the keybord shortcuts inorder to build designs much faster. I used these skills when I built the base:
 
 * sketching (shortcut **shift-s**)
@@ -37,7 +35,7 @@ When I was building this asignment is was very helpful to know the keybord short
 * extruding both add and remove (shortcut key **E**)
 * linear patterns (no shortcut)
 
-[Watching this video has very detailed instructions that will help a lot if you are confused at all](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)
+[Watching this video has very detailed instructions that will help a lot if you are confused at all!](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)
 
 Remember:
 * When creating a linear pattern (or other fetures like a mirror), make sure that "feture" is selected at the top instead of part if you want to create a pattern of a feture, such as the holes in the base.
