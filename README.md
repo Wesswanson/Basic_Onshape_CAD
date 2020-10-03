@@ -60,7 +60,7 @@ The second step in building a caster is building a mount. I created a sketch on 
 
 ### Reflection
 
-It was very easy and fast to coppy the design I had built in the base and use it for the mount. You can build it seperately in it's own part studio or document, it just takes more time to build it from scratch.
+It was very easy and fast to copy the design I had built in the base and use it for the mount. You can build it seperately in it's own part studio or document, it just takes more time to build it from scratch.
 
 [Watch this video for three ways to do this asignment](https://www.youtube.com/watch?v=BWDk4BZFXDQ&feature=emb_logo)
 
@@ -78,50 +78,26 @@ Designing stuff on Onshape is really fun!!!
 
 ### Description
 
-### Evidence
+The third assignment is to build a fork. It has an 80mm circle, extruded 8mm, with 1mm chamfers. On one side of the circle are two prongs, and on the other side there are two circles concentric to the large circle. One is 15mm and one is 20mm. The space between them (the ring shape) is extruded 60mm. The fork prongs are made by sketching a rectangle on the large circle with the dimensions 40mm-5mm. the side of the rectangle closest to the center of the circle is 15mm away from the center, and is perpendicular to a line going from the center of the circle to the center of the rectangle. this rectangle is extruded 75mm. It is mirrored to the other side of the circle, to make two prongs. A hole is cut through both prongs with a diameter of 10mm, a distance from the center to the top of the prong of 15mm, and an equal distance to both sides of the prong. Fillets are added to the fork on the top and the bottom. There is a 15mm fillet on the top, a 1mm fillet on the sides of that fillet, and a 4mm fillet on the bottom of the forks.
 
-### Image
-
-### Reflection
-
----
-
-
-## Tire
-
-### Description
 
 ### Evidence
 
-### Image
+[Click here to view the Fork in Onshape in more detail](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/6496f925bc3c30d20ddfefb3)
 
-### Reflection
-
----
-
-
-## Wheel
-
-### Description
-
-### Evidence
 
 ### Image
 
-### Reflection
+![Immage of the fork](https://davidswanson.org/wp-content/uploads/2020/10/wesengineering1002.png)
 
----
-
-
-## AxleCollarBearings
-
-### Description
-
-### Evidence
-
-### Image
 
 ### Reflection
 
----
+This step was relatively fast and easy for me having just done the previous two steps and the Onshape tutorials. I created this part in a new part studio of the caster document. you can add a part studio by clicking the plus sign at the bottom left side of your screen. 
+You will need to use the mirror feature when building this. When using the mirror feature, remember to select “feature mirror” instead of “part mirror”. You can use the top plane to mirror the prong across. Show or hide planes by pressing "P".
 
+When I designed this it was helpful to watch [this video.](https://www.youtube.com/watch?v=wQlTfOw8rYQ&feature=emb_logo)
+
+It will explain everything I didn’t explain here.
+
+---
