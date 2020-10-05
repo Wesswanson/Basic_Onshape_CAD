@@ -101,3 +101,27 @@ When I designed this it was helpful to watch [this video.](https://www.youtube.c
 It will explain everything I didn’t explain here.
 
 ---
+
+## Tire
+
+### Description
+
+The fourth assignment is to create a tire. In a new part studio I started a sketch on the front plane. From the origin I created one horizontal construction line and one vertical one. Then, I sketched a trapezoid (with two of the sides horizontal) above the origin. I added the following dimensions and constraints to my sketch:
+* The  left and right sides of the trapezoid are symmetric about the vertical construction line.
+* The bottom side of the trapezoid is 20mm long.
+* The angle from the sides of the trapezoid to the vertical construction line is 10 degrees.
+* The distance from the bottom of the trapezoid past the horizontal line (make the line be a diameter) is 80mm.
+* The distance from the top of the trapezoid past the horizontal line (make this a diameter as well) is 110mm.
+Then, I created a 360 degree revolve with the sketch to revolve being the trapezoid and the axis being the horizontal construction line. I added fillets on the outside edges of the tire with a radius of 8mm, and I was done!
+
+### Evidence
+
+[Click here to view the document in Onshape](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/9236bcf81abb980c1c5eec5e)
+
+### Image
+
+![Tire image](https://davidswanson.org/wp-content/uploads/2020/10/casterthefriendlygadget.png)
+
+### Reflection
+
+Building this was fast, but required new skills. To make a dimension into a diameter, press D (keyboard shortcut) and then select the line that would be the circumference if the sketch were revolved, and select the line that would be the origin. Move your mouse down past the origin line and the dimension should double and the line should jump downwards. To make something symmetric, under constraints select symmetric and then select the axis and the pieces to make symmetric. To dimension the angle between two lines, select dimension and then select two non parallel lines. If you need more help, like always there’s a video that explains everything. [Click here](https://www.youtube.com/watch?v=ReEGioIYSus&feature=emb_logo) to watch it. I’m excited to continue building the caster. I think I’m very close to finishing.
