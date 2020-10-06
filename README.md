@@ -125,3 +125,23 @@ Then, I created a 360 degree revolve with the sketch to revolve being the trapez
 ### Reflection
 
 Building this was fast, but required new skills. To make a dimension into a diameter, press D (keyboard shortcut) and then select the line that would be the circumference if the sketch were revolved, and select the line that would be the origin. Move your mouse down past the origin line and the dimension should double and the line should jump downwards. To make something symmetric, under constraints select symmetric and then select the axis and the pieces to make symmetric. To dimension the angle between two lines, select dimension and then select two non parallel lines. If you need more help, like always there’s a video that explains everything. [Click here](https://www.youtube.com/watch?v=ReEGioIYSus&feature=emb_logo) to watch it. I’m excited to continue building the caster. I think I’m very close to finishing.
+
+---
+
+## Wheel
+
+### Description
+
+To build a wheel, start a sketch in the same part studio as the tire. The directions said to start a sketch in the right plane, but I had started my tire in the front plane so I started my sketch there. I sketched the shape that is going to be revolved to form the wheel using this immage from Mr Helmstetter:  ![sketch of wheel](https://cvilleschools.instructure.com/courses/31052/files/1838288/download?wrap=1) Then I created a revolve and revolved that sketch around the construction line at the bottom of the sketch.
+### Evidence
+
+[Click Here](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/9236bcf81abb980c1c5eec5e) to view the document on Onshape.
+
+### Image
+
+
+
+### Reflection
+
+* hide tire while working on the wheel
+---
