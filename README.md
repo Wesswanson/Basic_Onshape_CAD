@@ -147,5 +147,5 @@ Now, you have to build a wheel. In the same part studio as the tire, create a sk
 
 ### Reflection
 
-* hide tire while working on the wheel
+* When you
 ---
