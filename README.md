@@ -130,9 +130,13 @@ Building this was fast, but required new skills. To make a dimension into a diam
 
 ## Wheel
 
+Note: 
+Building a wheel is complicated and requieres lots of immages to explain how to build it, so I'm going to explain the general idea and give you some tips to use when building it, but if you want clear, detailed instructions watch the video linked in the reflection.
+
 ### Description
 
-To build a wheel, start a sketch in the same part studio as the tire. The directions said to start a sketch in the right plane, but I had started my tire in the front plane so I started my sketch there. I sketched the shape that is going to be revolved to form the wheel using this immage from Mr Helmstetter:  ![sketch of wheel](https://cvilleschools.instructure.com/courses/31052/files/1838288/download?wrap=1) Then I created a revolve and revolved that sketch around the construction line at the bottom of the sketch.
+Now, you have to build a wheel. In the same part studio as the tire, create a sketch and revolve it to make the wheel. You will need to add spokes by sketching another shape, extruding it to remove part of the wheel, and creating a patern to have five more sections cut out. after you add fillets, you will be done.
+
 ### Evidence
 
 [Click Here](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/9236bcf81abb980c1c5eec5e) to view the document on Onshape.
