@@ -131,7 +131,7 @@ Building this was fast, but required new skills. To make a dimension into a diam
 ## Wheel
 
 Note: 
-Building a wheel is complicated and requieres lots of immages to explain how to build it, so I'm going to explain the general idea and give you some tips to use when building it, but if you want clear, detailed instructions watch the video linked in the reflection.
+Building a wheel is complicated and requires lots of immages to explain how to build it, so I'm going to explain the general idea and give you some tips to use when building it, but if you want clear, detailed instructions, watch the video linked in the reflection.
 
 ### Description
 
@@ -150,9 +150,9 @@ Now, you have to build a wheel. In the same part studio as the tire, create a sk
 [This video](https://www.youtube.com/watch?v=RKeALFyqSGw&feature=emb_logo) will explain the whole design in depth.
 
 Remember while building the wheel:
-* Make sure your sketches are fully constrained and dimentioned properly so you can have a wheel of the right shape.
-* Make sure you rename your parts and fetures to keep them organized while you design your wheel
-* Turn off the visibility of the tire while you work on the wheel
+* Make sure your sketches are fully constrained and dimensioned properly so you can have a wheel of the right shape.
+* Make sure you rename your parts and features to keep them organized while you design your wheel.
+* Turn off the visibility of the tire while you work on the wheel.
 You're almost done! This is the hardest part in the caster.
 
 ---
