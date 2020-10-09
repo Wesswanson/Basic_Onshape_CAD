@@ -135,7 +135,7 @@ Building a wheel is complicated and requieres lots of immages to explain how to 
 
 ### Description
 
-Now, you have to build a wheel. In the same part studio as the tire, create a sketch and revolve it to make the wheel. You will need to add spokes by sketching another shape on the face of the wheel, extruding it to remove part of the wheel, and creating a patern to have five more sections cut out. after you add fillets, you will be done with the wheel
+Now, you have to build a wheel. In the same part studio as the tire, create a sketch and revolve it to make the wheel. You will need to add spokes by sketching another shape on the face of the wheel, extruding it to remove part of the wheel, and creating a patern to have five more sections cut out. After you add fillets, you will be done with the wheel.
 
 ### Evidence
 
@@ -150,9 +150,9 @@ Now, you have to build a wheel. In the same part studio as the tire, create a sk
 * [This video](https://www.youtube.com/watch?v=RKeALFyqSGw&feature=emb_logo) will explain the whole design in depth.
 
 * Remember while building the wheel:
-** Make sure your sketches are fully constrained and dimentioned properly so you can have a wheel of the right shape.
-** Make sure you rename your parts and fetures to keep them organized while you design your wheel
-** Turn off the visibility of the tire while you work on the wheel
-You're almost done! this is the hardest part in the caster.
+* Make sure your sketches are fully constrained and dimentioned properly so you can have a wheel of the right shape.
+* Make sure you rename your parts and fetures to keep them organized while you design your wheel
+* Turn off the visibility of the tire while you work on the wheel
+You're almost done! This is the hardest part in the caster.
 
 ---
