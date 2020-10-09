@@ -147,9 +147,9 @@ Now, you have to build a wheel. In the same part studio as the tire, create a sk
 
 ### Reflection
 
-* [This video](https://www.youtube.com/watch?v=RKeALFyqSGw&feature=emb_logo) will explain the whole design in depth.
+[This video](https://www.youtube.com/watch?v=RKeALFyqSGw&feature=emb_logo) will explain the whole design in depth.
 
-* Remember while building the wheel:
+Remember while building the wheel:
 * Make sure your sketches are fully constrained and dimentioned properly so you can have a wheel of the right shape.
 * Make sure you rename your parts and fetures to keep them organized while you design your wheel
 * Turn off the visibility of the tire while you work on the wheel
