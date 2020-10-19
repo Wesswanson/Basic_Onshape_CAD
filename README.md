@@ -196,8 +196,9 @@ The dimensions for the big bearing are:
 [This video](https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_logo) should explain the whole process in detail.
 
 Here are some things to remember:
-* Make the axle and collar seperate parts
+* Make the axle and collar separate parts
 * Use the "Use" feature when creating seperate parts in the same part studio.
 * When creating the set screw hole in the collar, make sure it is set to remove, and merge scope is only on for the collar, not the axle.
 * Like always, rename your parts and features to stay organized.
+
 After this, all that's left is assembling the parts!
