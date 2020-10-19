@@ -162,20 +162,20 @@ You're almost done! This is the hardest part in the caster.
 ### Description
 
 These are the last parts you have to build before the sub-assembly and assembly. They are small and easy but important.
-To start, create an axle in a new part studio. The dimentions for the axle are:
+To start, create an axle in a new part studio. The dimensions for the axle are:
 * ID 6mm
 * OD 10mm
 * Extrude 60mm
 * flat cutout 4.5mm from the center
 * flat cutout extruded 10mm, mirrored to both sides
-Next, create a collar in the same part studio as the axle. The dimentions for the collar are:
+Next, create a collar in the same part studio as the axle. The dimensions for the collar are:
 * ID 10mm
 * OD 15mm
 * extruded 10mm
 * set screw hole 3mm, centered on collar
-* Hole extruded through collar.
-The dimentions for the bearing are the same as the middle two circles on the wheel, extruded 5mm.
-The dimentions for the big bearing are:
+* Hole extruded through the collar.
+The dimensions for the bearing are the same as the middle two circles on the wheel, extruded 5mm.
+The dimensions for the big bearing are:
 * ID 20mm
 * OD 30mm
 * extruded 5mm
