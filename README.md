@@ -186,4 +186,8 @@ The dimensions for the big bearing are:
 
 ### Image
 
-![axle and collar](https://davidswanson.org/wp-content/uploads/2020/10/drawingfromwes.png)
+![axle and collar](https://davidswanson.org/wp-content/uploads/2020/10/drawingfromwes.png)![bigbearing]()![bearing](https://davidswanson.org/wp-content/uploads/2020/10/wheelwes.png)
+
+### Reflectionn
+
+[This video](https://www.youtube.com/watch?time_continue=870&v=2r7YqGuF1vY&feature=emb_logo) should explain the whole process in detail
