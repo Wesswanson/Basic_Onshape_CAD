@@ -10,7 +10,7 @@ How I Built a Caster Using Onshape
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-
+* [Subassembly](#subassembly)
 ## Base
 
 ### Description:
@@ -156,3 +156,34 @@ Remember while building the wheel:
 You're almost done! This is the hardest part in the caster.
 
 ---
+
+## AxleCollarBearings
+
+### Description
+
+These are the last parts you have to build before the sub-assembly and assembly. They are small and easy but important.
+To start, create an axle in a new part studio. The dimentions for the axle are:
+* ID 6mm
+* OD 10mm
+* Extrude 60mm
+* flat cutout 4.5mm from the center
+* flat cutout extruded 10mm, mirrored to both sides
+Next, create a collar in the same part studio as the axle. The dimentions for the collar are:
+* ID 10mm
+* OD 15mm
+* extruded 10mm
+* set screw hole 3mm, centered on collar
+* Hole extruded through collar.
+The dimentions for the bearing are the same as the middle two circles on the wheel, extruded 5mm.
+The dimentions for the big bearing are:
+* ID 20mm
+* OD 30mm
+* extruded 5mm
+
+### Evidence
+
+[Click here](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/12597fdb9dbcb6c93f6dfca5) to view the caster in onshape.
+
+### Image
+
+![axle and collar](https://davidswanson.org/wp-content/uploads/2020/10/drawingfromwes.png)
