@@ -189,7 +189,7 @@ The dimensions for the big bearing are:
 
 ### Image
 
-![axle and collar](https://davidswanson.org/wp-content/uploads/2020/10/drawingfromwes.png)![bigbearing]()![bearing](https://davidswanson.org/wp-content/uploads/2020/10/wheelwes.png)
+![axle and collar](https://davidswanson.org/wp-content/uploads/2020/10/drawingfromwes.png)![bigbearing](https://davidswanson.org/wp-content/uploads/2020/10/bearing.png)![bearing](https://davidswanson.org/wp-content/uploads/2020/10/wheelwes.png)
 
 ### Reflectionn
 
@@ -202,3 +202,7 @@ Here are some things to remember:
 * Like always, rename your parts and features to stay organized.
 
 After this, all that's left is assembling the parts!
+
+## Subassembly
+
+### Description
