@@ -168,13 +168,16 @@ To start, create an axle in a new part studio. The dimensions for the axle are:
 * Extrude 60mm
 * flat cutout 4.5mm from the center
 * flat cutout extruded 10mm, mirrored to both sides
+
 Next, create a collar in the same part studio as the axle. The dimensions for the collar are:
 * ID 10mm
 * OD 15mm
 * extruded 10mm
 * set screw hole 3mm, centered on collar
 * Hole extruded through the collar.
+
 The dimensions for the bearing are the same as the middle two circles on the wheel, extruded 5mm.
+
 The dimensions for the big bearing are:
 * ID 20mm
 * OD 30mm
@@ -190,4 +193,11 @@ The dimensions for the big bearing are:
 
 ### Reflectionn
 
-[This video](https://www.youtube.com/watch?time_continue=870&v=2r7YqGuF1vY&feature=emb_logo) should explain the whole process in detail
+[This video](https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_logo) should explain the whole process in detail.
+
+Here are some things to remember:
+* Make the axle and collar seperate parts
+* Use the "Use" feature when creating seperate parts in the same part studio.
+* When creating the set screw hole in the collar, make sure it is set to remove, and merge scope is only on for the collar, not the axle.
+* Like always, rename your parts and features to stay organized.
+After this, all that's left is assembling the parts!
