@@ -191,7 +191,7 @@ The dimensions for the big bearing are:
 
 ![axle and collar](https://davidswanson.org/wp-content/uploads/2020/10/drawingfromwes.png)![bigbearing](https://davidswanson.org/wp-content/uploads/2020/10/bearing.png)![bearing](https://davidswanson.org/wp-content/uploads/2020/10/wheelwes.png)
 
-### Reflectionn
+### Reflection
 
 [This video](https://www.youtube.com/watch?v=2r7YqGuF1vY&feature=emb_logo) should explain the whole process in detail.
 
@@ -207,3 +207,21 @@ After this, all that's left is assembling the parts!
 
 ### Description
 
+To create a sub-assembly, use the assembly tab in your document. Insert the wheel, tire, axle, and two small bearings. Then, create the folowing constraints:
+* A fastened constraint from the center of the wheel to the orgin.
+* A fastened constraint from the wheel to the tire.
+* A revolute constraint from the axle to the wheel.
+* A revolute constraint from the bearing to the wheel.
+* A revolute constraint from the other bearing to the wheel.
+
+### Evidence
+
+[Click here](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/12597fdb9dbcb6c93f6dfca5) to view the caster in onshape.
+
+### Image
+
+![sub assembly]()
+
+### Reflection
+
+Creating assemblies requieres a lot of new skills on Onshape. You should know enough about assemblies to put together these parts just from doing the begining of the assemblies lesson [here](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad) on the onshape learning center. There is also a [video](https://www.youtube.com/watch?v=R4PDBd8H5h8&feature=emb_logo) that will explain how to make the sub-assembly in detail.
