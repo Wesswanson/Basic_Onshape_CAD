@@ -203,6 +203,8 @@ Here are some things to remember:
 
 After this, all that's left is assembling the parts!
 
+---
+
 ## Subassembly
 
 ### Description
