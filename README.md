@@ -207,8 +207,8 @@ After this, all that's left is assembling the parts!
 
 ### Description
 
-To create a sub-assembly, use the assembly tab in your document. Insert the wheel, tire, axle, and two small bearings. Then, create the folowing constraints:
-* A fastened constraint from the center of the wheel to the orgin.
+To create a sub-assembly, use the assembly tab in your document. Insert the wheel, tire, axle, and two small bearings. Then, create the following constraints:
+* A fastened constraint from the center of the wheel to the origin.
 * A fastened constraint from the wheel to the tire.
 * A revolute constraint from the axle to the wheel.
 * A revolute constraint from the bearing to the wheel.
@@ -224,4 +224,6 @@ To create a sub-assembly, use the assembly tab in your document. Insert the whee
 
 ### Reflection
 
-Creating assemblies requieres a lot of new skills on Onshape. You should know enough about assemblies to put together these parts just from doing the begining of the assemblies lesson [here](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad) on the onshape learning center. There is also a [video](https://www.youtube.com/watch?v=R4PDBd8H5h8&feature=emb_logo) that will explain how to make the sub-assembly in detail.
+Creating assemblies requires a lot of new skills on Onshape. You should know enough about assemblies to put together these parts just from doing the beginning of the assemblies lesson [here](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad) on the onshape learning center. There is also a [video](https://www.youtube.com/watch?v=R4PDBd8H5h8&feature=emb_logo) that will explain how to make the sub-assembly in detail.
+
+This repo is still a work in progress.
