@@ -222,7 +222,7 @@ To create a sub-assembly, use the assembly tab in your document. Insert the whee
 
 ### Image
 
-![sub assembly]()
+![sub assembly](https://davidswanson.org/wp-content/uploads/2020/10/subforwes.png)
 
 ### Reflection
 
