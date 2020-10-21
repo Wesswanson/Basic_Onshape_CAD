@@ -205,11 +205,13 @@ To create a sub-assembly, use the assembly tab in your document. Insert the whee
 
 ### Reflection
 Creating assemblies requires a lot of new skills on Onshape. You should know enough about assemblies to put together these parts just from doing the beginning of [this](https://learn.onshape.com/learn/learning-path/onshape-fundamentals-cad) lesson on assemblies in the Onshape learning center. There is also a [video](https://www.youtube.com/watch?v=R4PDBd8H5h8&feature=emb_logo) that will explain how to make the sub-assembly in detail.
-  Creating a sub-assembly is an important step that can make the assembly process much easier. When you start the final assembly it will make it much easier to have half of the assembly already together and insert it as one piece. That will reduce confution and reduce the posibility of messing up the whole assembly in the final stages. When I realized I had made a mistake while working on the final assembly, having the sub-assembly in another tab made it very easy to root out the problem and fix it.
+  Creating a sub-assembly is an important step that can make the assembly process much easier. When you start the final assembly it will make it much easier to have half of the assembly already together and insert it as one piece. That will reduce confusion and reduce the possibility of messing up the whole assembly in the final stages. When I realized I had made a mistake while working on the final assembly, having the sub-assembly in another tab made it very easy to root out the problem and fix it.
   
 Remember while working on this step:
 
-* 
+* Make sure your mate connectors are all in the right place so parts don't overlap or be offset from where you want them.
+* Press "solve" on your constraints before pressing check to make sure your constraints are correct.
+* Make sure your first part is constrained to the origin when you put it in.
 
 ## Assembly
 
