@@ -257,5 +257,6 @@ This step was one of the hardest steps for me while building the caster. It is v
 * Flip parts to the right direction when mating them
 * Fasten one of the parts to the origin when you start the assembly
 
-watch [this video](https://www.youtube.com/watch?v=orcp-asikM4&feature=emb_logo) for more detailed instructions.
+Watch [this video](https://www.youtube.com/watch?v=orcp-asikM4&feature=emb_logo) for more detailed instructions.
+
 ---
