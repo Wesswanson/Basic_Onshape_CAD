@@ -217,6 +217,16 @@ Remember while working on this step:
 
 ### Description
 
+This step will put together the final caster design. The parts needed for this step that you designed are:
+* Bace
+* Mount
+* Fork
+* Sub-assembly
+* Big bearing
+* Collar (2x)
+The public parts or "standard content" needed are:
+* m10 socket head screw (4x)
+* 
 ### Evidence
 [Click here](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/12597fdb9dbcb6c93f6dfca5) to view the caster in onshape.
 
