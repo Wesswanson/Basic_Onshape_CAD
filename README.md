@@ -216,7 +216,6 @@ Remember while working on this step:
 ## Assembly
 
 ### Description
-
 This step will put together the final caster design. The parts needed for this step that you designed are:
 * Bace
 * Mount
@@ -224,9 +223,26 @@ This step will put together the final caster design. The parts needed for this s
 * Sub-assembly
 * Big bearing
 * Collar (2x)
+
 The public parts or "standard content" needed are:
 * m10 socket head screw (4x)
-* 
+* m10 hex nut (4x)
+* m20 thin nut
+* size 3 parallel pin (2x)
+
+(all units are ISO)
+
+You will need to add the following constraints to your assembly:
+* Fastened mate from mount to bace
+* Revolute mate from fork to big bearing
+* Revolute mate from mount to big bearing
+* Revolute mate from sub-assembly to fork
+* Revolute mate from axle to collar to fork (2x)
+* Parallel mate from collar to axle (2x)
+* Mate from bolts to holes (you just need to drop the bolts into the holes--no need to scelect a mate) (4x)
+* Mate from nuts to bolts (just drop the nuts in place) (4x)
+* Fastened mate from pins to collars (2x)
+
 ### Evidence
 [Click here](https://cvilleschools.onshape.com/documents/f17b32973a80d2a56a647c10/w/fd2d9b519a282c3d5eb78bf3/e/12597fdb9dbcb6c93f6dfca5) to view the caster in onshape.
 
@@ -234,5 +250,12 @@ The public parts or "standard content" needed are:
 ![imageofcaster](http://davidswanson.org/wp-content/uploads/2020/10/assemblyforwes.png)
 
 ### Reflection
+This step was one of the hardest steps for me while building the caster. It is very important to select the right mate connectors when mating parts, It requires using standard content which was a new skill for me, and it doesn't work out unless all your parts were created perfectly. When I was assembling the fork to the sub-assembly, I realized that my sub-assembly was too large to fit in the fork. Mr. Helmsteter taught me how to root out the problem and fix it by measuring the part that was most likely to have caused the problem, and then the next most likely part, and so on until I had solved the problem in the assembly. It turned out that a part of the original sketch of my wheel was not constrained (meaning the lines were blue) and part of my wheel was sticking out too far. After I fixed that problem the rest of the assembly was realitely easy. Here are some things I learned and some things to remember while building this step:
+* Make sure you have the right type of screws and nuts when you insert standard content
+* Press solve and annomate the movement of parts when mating them before pressing check
+* If there is a problem check all the parts involved in the assembly to find the problem
+* Flip parts to the right direction when mating them
+* Fasten one of the parts to the origin when you start the assembly
 
+watch [this video](https://www.youtube.com/watch?v=orcp-asikM4&feature=emb_logo) for more detailed instructions.
 ---
